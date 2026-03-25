@@ -3,5 +3,57 @@
 }
 
 /* write your rules below  this line*/
+.dark-bg{
+    background-color: #1e1e1e;
+}
 
-
+.light-text{
+    color:#ffff;
+}
+.rounded{
+    border-radius:10px;
+}
+.spaced-out{
+    padding:25px;
+}
+#page-title{
+    font-size: 48px;
+    text-align:center;
+}
+.card{
+    background-color: cadetblue;
+    border-radius: 20px;
+    padding: 40px;
+}
+.warning{
+    font-size: 40px;
+    color:#1e1e1e;
+    background-color: crimson;
+    padding: 30px;
+}
+.img-style{
+    border-radius: 15px;
+}
+.award{
+    background-color:blueviolet;
+    border-radius: 15px;
+    padding:20px;
+}
+#footing{
+    background-color: darkslateblue;
+    color:aliceblue;
+    text-align: center;
+}
+.test1{
+    background-color: bisque;
+    color:darkseagreen;
+}
+.test2{
+    padding:40px;
+    border-radius: 20px;
+    background-color:darkcyan;
+}
+#test3{
+    text-shadow: #1e1e1e;
+    text-rendering: geometricPrecision;
+}
